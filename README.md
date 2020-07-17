@@ -1,26 +1,23 @@
 # Analyze-A-B-Test-Results
-# Summty
-In this project, i analyzed local and global temperature data and compared the temperature trends for Riyadh city to overall global temperature trends. The goal is to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature my city.
 
-# Introduction
-SQL Query was used to download (CSV) file that contains yearly average temperature Riyadh city and the global temperature. the data has been analyed and plotted using excel
+# Introduction:
+
+A company has developed a new e-commerce web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. The main goal of this project was to understand the results of an A/B test run by the website and provide statistical and practical interpretation on the test results.
 
 # Tools:
 
-• MS Excel
+- Python
 
-• SQL Query
+- Numpy
 
-• MS word
+- Pandas
 
-# Steps: 
+- Matplotlib
 
-• Downloading 2 data files from SQL database as CSV.
+- Scipy
 
-• Calculating the Moving Average and plotting them using MS Excel
+- Jupyter Notebook
 
-• Writing observaions
+# Conclusion:
 
-• Writing final conclusion
-
-For more details, please refer to the report file.
+After the investgation, it seems that ther is almost equal chance of converting users between the old and the new pages. I reccommend the company to keep the old pages to save money.
